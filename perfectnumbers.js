@@ -1,5 +1,5 @@
 /*
-A javascript program to find n number of perfect primes using Euclid-Euler Theorem
+A javascript program to find n number of perfect numbers using Euclid-Euler Theorem
 */
 findPerfect(4);
 
